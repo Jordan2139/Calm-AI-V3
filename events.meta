@@ -1,3 +1,11 @@
+<!-- Calm-AI V3- A Simple FiveM Script, Made By Jordan.#2139 -->
+
+<!--
+                   !WARNING! !WARNING! !WARNING! !WARNING! !WARNING! 
+         DO NOT TOUCH THIS FILE OR YOU /WILL/ FUCK SHIT UP! EDIT THE CONFIG.LUA 
+ DO NOT BE STUPID AND WHINE TO ME ABOUT THIS BEING BROKEN IF YOU TOUCHED THE LINES BELOW.
+-->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <CEventDataManager>
 	<eventResponseTaskData>
