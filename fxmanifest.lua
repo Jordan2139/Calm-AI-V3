@@ -9,7 +9,7 @@ games { 'gta5' }
 name 'Calm-AI V3'
 description 'A simple reboot that also includes an AI density manager'
 author 'Jordan.#2139'
-version 'v1.0.0'
+version 'v1.1.0'
 
 
 -- Client Scripts
