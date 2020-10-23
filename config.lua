@@ -11,7 +11,7 @@ Config = {
     RanVehDensity = 0.65, -- How many Random Cars (0.0 - 1.0) | The lower the number the less cars
     ParkCarDensity = 0.95, -- How many parked cars (0.0 - 1.0) | The lower the number the less cars
     ScenePedDensity = 0.35, -- How many AI doing emotes (scenarios) (0.0 - 1.0) | The lower the number the less AI
-    DispatchDead = true,
+    DispatchDead = true, -- Do you want AI to dispatch? True = No | False = Yes
     }
     --------------------------
     -- ^^^ DO THAT HERE ^^^ -- 
