@@ -1,6 +1,6 @@
 # Calm-AI V3
 ## What is it?
-Essentially Calm-AI V3 is a script that takes the old Calm-AI by NickThe0ne but improves it by adding a feature that lets you control the amount of AI around you as well all in a nice config file. This script is 100% standalone and requires minimal configuration. You can configure the AI density(amount of AI) in the `config.lua` and manage the AI relationships in the `relationships.dat` file.
+Essentially Calm-AI V3 is a script that takes the old Calm-AI by NickThe0ne but improves it by adding a feature that lets you control the amount of AI around you as well all in a nice config file. This script is 100% standalone and requires minimal configuration. You can configure the AI density(amount of AI) in the `config.lua` and manage the AI relationships in the `relationships.dat` file. This script also allows for the disabling of AI dispatching as a whole.
 
 ### Configuration
 ```
@@ -17,6 +17,7 @@ Config = {
     RanVehDensity = 1, -- How many Random Cars (10 - 1) | The lower the number the less cars
     ParkCarDensity = 1, -- How many parked cars (10 - 1) | The lower the number the less cars
     ScenePedDensity = 1, -- How many AI doing emotes (scenarios) (10 - 1) | The lower the number the less AI
+    DispatchDead = true, -- Do you want AI to dispatch? True = No | False = Yes
     }
     --------------------------
     -- ^^^ DO THAT HERE ^^^ -- 
